@@ -5,6 +5,12 @@ on:
     # Every 3 hours: new tips for the next matches, results for finished ones
     - cron: '17 */3 * * *'
   workflow_dispatch:
+  # Also run when the generator itself changes
+  push:
+    branches: [main]
+    paths:
+      - generate.ps1
+      - .github/workflows/update-tips.yml
 
 permissions:
   contents: write
