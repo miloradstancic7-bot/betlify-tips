@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16 06:26",
+  "updated": "2026-10-16 13:18",
   "source": "ESPN fixtures, DraftKings odds; tennis estimated from ATP/WTA rankings",
   "tips": [
     {
@@ -1759,6 +1759,26 @@
       "market": "total",
       "side": "over",
       "line": 2.5
+    },
+    {
+      "id": "espn-401875577",
+      "sport": "Football",
+      "league": "Eredivisie",
+      "home": "FC Twente",
+      "away": "FC Utrecht",
+      "kickoff": "2026-10-18 20:00",
+      "pick": "1",
+      "odds": 1.32,
+      "confidence": 70,
+      "analysis": "FC Twente are favourites at home. Bookmaker odds (margin removed): FC Twente 70%, draw 16%, FC Utrecht 13%. Recent form: FC Twente DDWWW, FC Utrecht DLWDL.",
+      "tier": "FREE",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401875577",
+      "espn": "soccer/ned.1",
+      "market": "ml",
+      "side": "home",
+      "line": null
     }
   ]
 }
