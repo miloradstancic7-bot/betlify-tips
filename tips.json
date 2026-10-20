@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 16:16",
+  "updated": "2026-10-20 21:12",
   "source": "ESPN fixtures, DraftKings odds; tennis estimated from ATP/WTA rankings",
   "tips": [
     {
@@ -1958,8 +1958,8 @@
       "confidence": 59,
       "analysis": "The goal line points to an open game: over 2.5 goals is rated 59%. Bookmaker odds (margin removed): Fenerbahce 57%, draw 23%, Slavia Prague 20%. Recent form: Fenerbahce DLWWD, Slavia Prague DLLLL.",
       "tier": "EXTRA",
-      "status": "PENDING",
-      "score": null,
+      "status": "WON",
+      "score": "2-2",
       "eventId": "401915403",
       "espn": "soccer/uefa.champions",
       "market": "total",
@@ -1978,8 +1978,8 @@
       "confidence": 73,
       "analysis": "Dortmund are favourites even away from home. Bookmaker odds (margin removed): Sabah 11%, draw 16%, Dortmund 73%. Recent form: Sabah DLWLW, Dortmund DLDWW.",
       "tier": "FREE",
-      "status": "PENDING",
-      "score": null,
+      "status": "WON",
+      "score": "1-2",
       "eventId": "401915404",
       "espn": "soccer/uefa.champions",
       "market": "ml",
