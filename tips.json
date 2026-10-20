@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 10:28",
+  "updated": "2026-10-20 16:16",
   "source": "ESPN fixtures, DraftKings odds; tennis estimated from ATP/WTA rankings",
   "tips": [
     {
@@ -2837,6 +2837,46 @@
       "market": "total",
       "side": "over",
       "line": 2.5
+    },
+    {
+      "id": "espn-401909093",
+      "sport": "Basketball",
+      "league": "NBA",
+      "home": "Philadelphia 76ers",
+      "away": "Cleveland Cavaliers",
+      "kickoff": "2026-10-23 01:00",
+      "pick": "76ers to win",
+      "odds": 1.7,
+      "confidence": 56,
+      "analysis": "76ers are 56% favourites by the bookmaker odds (margin removed). Game total: 235.5 points.",
+      "tier": "EXTRA",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401909093",
+      "espn": "basketball/nba",
+      "market": "ml",
+      "side": "home",
+      "line": null
+    },
+    {
+      "id": "espn-401909094",
+      "sport": "Basketball",
+      "league": "NBA",
+      "home": "Oklahoma City Thunder",
+      "away": "Denver Nuggets",
+      "kickoff": "2026-10-23 03:30",
+      "pick": "Thunder to win",
+      "odds": 1.34,
+      "confidence": 72,
+      "analysis": "Thunder are 72% favourites by the bookmaker odds (margin removed). Game total: 234.5 points.",
+      "tier": "FREE",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401909094",
+      "espn": "basketball/nba",
+      "market": "ml",
+      "side": "home",
+      "line": null
     }
   ]
 }
