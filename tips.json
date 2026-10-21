@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 13:43",
+  "updated": "2026-10-21 19:08",
   "source": "ESPN fixtures, DraftKings odds; tennis estimated from ATP/WTA rankings",
   "tips": [
     {
@@ -2293,6 +2293,26 @@
       "comboTitle": "Daily Combo"
     },
     {
+      "id": "espn-401915391",
+      "sport": "Football",
+      "league": "Champions League",
+      "home": "Sporting CP",
+      "away": "LASK Linz",
+      "kickoff": "2026-10-21 21:00",
+      "pick": "1",
+      "odds": 1.33,
+      "confidence": 72,
+      "analysis": "Sporting are favourites at home. Bookmaker odds (margin removed): Sporting 72%, draw 17%, LASK Linz 12%. Recent form: Sporting DWDDW, LASK Linz DLLDL.",
+      "tier": "FREE",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401915391",
+      "espn": "soccer/uefa.champions",
+      "market": "ml",
+      "side": "home",
+      "line": null
+    },
+    {
       "id": "espn-401909834",
       "sport": "Basketball",
       "league": "NBA",
@@ -3139,6 +3159,26 @@
       "status": "PENDING",
       "score": null,
       "eventId": "401909095",
+      "espn": "basketball/nba",
+      "market": "ml",
+      "side": "home",
+      "line": null
+    },
+    {
+      "id": "espn-401909096",
+      "sport": "Basketball",
+      "league": "NBA",
+      "home": "San Antonio Spurs",
+      "away": "Houston Rockets",
+      "kickoff": "2026-10-24 03:30",
+      "pick": "Spurs to win",
+      "odds": 1.34,
+      "confidence": 71,
+      "analysis": "Spurs are 71% favourites by the bookmaker odds (margin removed). Game total: 225.5 points.",
+      "tier": "FREE",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401909096",
       "espn": "basketball/nba",
       "market": "ml",
       "side": "home",
