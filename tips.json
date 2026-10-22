@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 13:46",
+  "updated": "2026-10-22 19:07",
   "source": "ESPN fixtures, DraftKings odds; tennis estimated from ATP/WTA rankings",
   "tips": [
     {
@@ -2610,8 +2610,8 @@
       "confidence": 57,
       "analysis": "Panathinaikos are favourites even away from home. Bookmaker odds (margin removed): Kairat Almaty 19%, draw 24%, Panathinaikos 57%. Recent form: Kairat Almaty DLLLL, Panathinaikos DWLWW.",
       "tier": "EXTRA",
-      "status": "PENDING",
-      "score": null,
+      "status": "WON",
+      "score": "1-5",
       "eventId": "401915846",
       "espn": "soccer/uefa.europa.conf",
       "market": "ml",
@@ -2939,6 +2939,26 @@
       "line": null,
       "combo": "combo-2026-10-23",
       "comboTitle": "Daily Combo"
+    },
+    {
+      "id": "espn-185061",
+      "sport": "Tennis",
+      "league": "ATP BNP Paribas Fortis European Open",
+      "home": "Arthur Fils",
+      "away": "Alex Michelsen",
+      "kickoff": "2026-10-23 18:30",
+      "pick": "Arthur Fils to win",
+      "odds": 1.31,
+      "confidence": 72,
+      "analysis": "Arthur Fils (#1) vs Alex Michelsen (#5), Quarterfinal. Arthur Fils is rated 72% to win from the ATP rankings. No bookmaker odds in the feed: the odds shown are an estimate.",
+      "tier": "FREE",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "185061",
+      "espn": "tennis/atp",
+      "market": "ml",
+      "side": "home",
+      "line": null
     },
     {
       "id": "espn-401888268",
