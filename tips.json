@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25 05:36",
+  "updated": "2026-10-25 12:20",
   "source": "ESPN fixtures, DraftKings odds; tennis estimated from ATP/WTA rankings",
   "tips": [
     {
@@ -4560,6 +4560,66 @@
       "espn": "soccer/esp.1",
       "market": "total",
       "side": "under",
+      "line": 2.5
+    },
+    {
+      "id": "espn-401874980",
+      "sport": "Football",
+      "league": "Serie A",
+      "home": "Sassuolo",
+      "away": "Lazio",
+      "kickoff": "2026-10-27 18:30",
+      "pick": "3+",
+      "odds": 1.69,
+      "confidence": 56,
+      "analysis": "The goal line points to an open game: over 2.5 goals is rated 56%. Bookmaker odds (margin removed): Sassuolo 30%, draw 27%, Lazio 43%. Recent form: Sassuolo DLDLW, Lazio DWWWD.",
+      "tier": "EXTRA",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401874980",
+      "espn": "soccer/ita.1",
+      "market": "total",
+      "side": "over",
+      "line": 2.5
+    },
+    {
+      "id": "espn-401874780",
+      "sport": "Football",
+      "league": "Serie A",
+      "home": "AS Roma",
+      "away": "Cagliari",
+      "kickoff": "2026-10-27 20:45",
+      "pick": "1",
+      "odds": 1.34,
+      "confidence": 69,
+      "analysis": "AS Roma are favourites at home. Bookmaker odds (margin removed): AS Roma 69%, draw 20%, Cagliari 11%. Recent form: AS Roma DWWLD, Cagliari DLDWW.",
+      "tier": "FREE",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401874780",
+      "espn": "soccer/ita.1",
+      "market": "ml",
+      "side": "home",
+      "line": null
+    },
+    {
+      "id": "espn-401874786",
+      "sport": "Football",
+      "league": "Serie A",
+      "home": "Torino",
+      "away": "Como",
+      "kickoff": "2026-10-27 20:45",
+      "pick": "3+",
+      "odds": 1.67,
+      "confidence": 56,
+      "analysis": "The goal line points to an open game: over 2.5 goals is rated 56%. Bookmaker odds (margin removed): Torino 21%, draw 26%, Como 54%. Recent form: Torino DWWDL, Como DWWLD.",
+      "tier": "EXTRA",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401874786",
+      "espn": "soccer/ita.1",
+      "market": "total",
+      "side": "over",
       "line": 2.5
     }
   ]
