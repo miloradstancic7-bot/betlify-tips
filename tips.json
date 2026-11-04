@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 00:17",
+  "updated": "2026-11-04 07:10",
   "source": "ESPN fixtures, DraftKings odds; tennis estimated from ATP/WTA rankings",
   "tips": [
     {
@@ -8349,6 +8349,26 @@
       "market": "ml",
       "side": "home",
       "line": null
+    },
+    {
+      "id": "espn-401888256",
+      "sport": "Football",
+      "league": "Super Lig",
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa",
+      "kickoff": "2026-11-06 18:00",
+      "pick": "3+",
+      "odds": 1.83,
+      "confidence": 50,
+      "analysis": "The goal line points to an open game: over 2.5 goals is rated 50%. Bookmaker odds (margin removed): Gaziantep 37%, draw 28%, Kasimpasa 35%. Recent form: Gaziantep LLLLL, Kasimpasa DWWLD.",
+      "tier": "EXTRA",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401888256",
+      "espn": "soccer/tur.1",
+      "market": "total",
+      "side": "over",
+      "line": 2.5
     }
   ]
 }
