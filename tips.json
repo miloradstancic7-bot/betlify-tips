@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08 01:32",
+  "updated": "2026-11-08 11:13",
   "source": "ESPN fixtures, DraftKings odds; tennis estimated from ATP/WTA rankings",
   "tips": [
     {
@@ -9887,6 +9887,26 @@
       "market": "spread",
       "side": "home",
       "line": -11.5
+    },
+    {
+      "id": "espn-401909948",
+      "sport": "Basketball",
+      "league": "NBA",
+      "home": "Dallas Mavericks",
+      "away": "Brooklyn Nets",
+      "kickoff": "2026-11-09 01:30",
+      "pick": "Mavericks -9.5",
+      "odds": 1.91,
+      "confidence": 50,
+      "analysis": "Mavericks win 78% of the time by the odds, so the handicap is the value: Mavericks -9.5. Game total: 221.5 points.",
+      "tier": "EXTRA",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401909948",
+      "espn": "basketball/nba",
+      "market": "spread",
+      "side": "home",
+      "line": -9.5
     },
     {
       "id": "espn-401909949",
