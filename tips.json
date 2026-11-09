@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09 07:17",
+  "updated": "2026-11-09 20:46",
   "source": "ESPN fixtures, DraftKings odds; tennis estimated from ATP/WTA rankings",
   "tips": [
     {
@@ -9980,8 +9980,8 @@
       "confidence": 66,
       "analysis": "Janice Tjen (#1) vs Magda Linette (#3), Final. Janice Tjen is rated 66% to win from the WTA rankings. No bookmaker odds in the feed: the odds shown are an estimate.",
       "tier": "FREE",
-      "status": "PENDING",
-      "score": null,
+      "status": "LOST",
+      "score": "7-5 1-6 4-6",
       "eventId": "186598",
       "espn": "tennis/wta",
       "market": "ml",
