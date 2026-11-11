@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 11:50",
+  "updated": "2026-11-11 20:33",
   "source": "ESPN fixtures, DraftKings odds; tennis estimated from ATP/WTA rankings",
   "tips": [
     {
@@ -10658,6 +10658,26 @@
       "espn": "basketball/nba",
       "market": "ml",
       "side": "away",
+      "line": null
+    },
+    {
+      "id": "espn-186550",
+      "sport": "Tennis",
+      "league": "ATP Bybit Stockholm Open",
+      "home": "Lorenzo Musetti",
+      "away": "Ugo Humbert",
+      "kickoff": "2026-11-12 20:00",
+      "pick": "Lorenzo Musetti to win",
+      "odds": 1.53,
+      "confidence": 62,
+      "analysis": "Lorenzo Musetti (#3) vs Ugo Humbert (#7), Quarterfinal. Lorenzo Musetti is rated 62% to win from the ATP rankings. No bookmaker odds in the feed: the odds shown are an estimate.",
+      "tier": "FREE",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "186550",
+      "espn": "tennis/atp",
+      "market": "ml",
+      "side": "home",
       "line": null
     }
   ]
