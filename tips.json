@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 20:33",
+  "updated": "2026-11-12 03:14",
   "source": "ESPN fixtures, DraftKings odds; tennis estimated from ATP/WTA rankings",
   "tips": [
     {
@@ -10676,6 +10676,46 @@
       "score": null,
       "eventId": "186550",
       "espn": "tennis/atp",
+      "market": "ml",
+      "side": "home",
+      "line": null
+    },
+    {
+      "id": "espn-401909978",
+      "sport": "Basketball",
+      "league": "NBA",
+      "home": "Minnesota Timberwolves",
+      "away": "Dallas Mavericks",
+      "kickoff": "2026-11-13 02:00",
+      "pick": "Timberwolves to win",
+      "odds": 1.51,
+      "confidence": 64,
+      "analysis": "Timberwolves are 64% favourites by the bookmaker odds (margin removed). Game total: 226.5 points.",
+      "tier": "FREE",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401909978",
+      "espn": "basketball/nba",
+      "market": "ml",
+      "side": "home",
+      "line": null
+    },
+    {
+      "id": "espn-401909979",
+      "sport": "Basketball",
+      "league": "NBA",
+      "home": "Phoenix Suns",
+      "away": "Charlotte Hornets",
+      "kickoff": "2026-11-13 03:00",
+      "pick": "Suns to win",
+      "odds": 1.4,
+      "confidence": 69,
+      "analysis": "Suns are 69% favourites by the bookmaker odds (margin removed). Game total: 213.5 points.",
+      "tier": "FREE",
+      "status": "PENDING",
+      "score": null,
+      "eventId": "401909979",
+      "espn": "basketball/nba",
       "market": "ml",
       "side": "home",
       "line": null
